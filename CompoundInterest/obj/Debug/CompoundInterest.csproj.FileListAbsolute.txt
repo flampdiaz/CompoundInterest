@@ -1,2 +1,7 @@
 C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\New folder\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
 C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.csprojResolveAssemblyReference.cache
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.pdb

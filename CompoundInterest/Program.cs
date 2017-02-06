@@ -9,6 +9,8 @@ namespace CompoundInterest
             decimal capital, rate, fee, interestPayment, principalAmortization, accumulatedAmortization = 0;
             int time;
 
+            int prueba = 2 ^ 4;
+            Console.WriteLine(prueba);
             Console.SetWindowSize(Console.WindowWidth, 60);
             Console.Title = "Interes compuesto - Flampeyeiry Diaz [2015-2772]";
 
