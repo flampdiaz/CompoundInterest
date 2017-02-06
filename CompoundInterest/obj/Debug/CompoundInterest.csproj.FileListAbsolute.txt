@@ -1,0 +1,2 @@
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\New folder\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\FlamperDM\Documents\Projects\Visual Studio 2015\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
