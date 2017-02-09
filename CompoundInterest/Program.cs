@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
 
 namespace CompoundInterest
 {
@@ -6,12 +8,13 @@ namespace CompoundInterest
     {
         static void Main(string[] args)
         {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
+
             decimal capital, rate, fee, interestPayment, principalAmortization, accumulatedAmortization = 0;
             int time;
-
-            int prueba = 2 ^ 4;
-            Console.WriteLine(prueba);
-            Console.SetWindowSize(Console.WindowWidth, 60);
+            
+            Console.SetWindowSize(Console.WindowWidth, Console.LargestWindowHeight);
             Console.Title = "Interes compuesto - Flampeyeiry Diaz [2015-2772]";
 
             capital = CaptureValue("capital");
@@ -47,9 +50,9 @@ namespace CompoundInterest
         }
 
         /// <summary>
-        /// this method is for read console and set color to the text
+        /// this method is to read the console and set color to the text
         /// </summary>
-        /// <param name="text">this is the parameter for into a text to show on the console for indicate to user that value need enter</param>
+        /// <param name="text">this is the text to show on the console to indicate the user which value he needs to enter</param>
         /// <returns>return a decimal value</returns>
         private static decimal CaptureValue(string text)
         {
